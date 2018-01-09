@@ -13,9 +13,9 @@ A solução usando força bruta é a abordagem mais simples. Consiste em iterar 
 Pseudo-código:
 ```
 for n=0 to 999 do
-if (n mod 3==0) or (n mod 5==0) then
-sum += n
-endif
+    if (n mod 3==0) or (n mod 5==0) then
+        sum += n
+    endif
 end
 ```
 
