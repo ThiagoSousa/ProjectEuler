@@ -1,5 +1,5 @@
 # Project Euler
-Minhas soluções para o Project Euler. Eu tenho duas contas no project Euler como listado abaixo. Atualmente, tenho 100 problemas resolvidos na minha conta pessoal e estou sempre tentando melhorar e aprender com os problemas. Se tem algo que eu aprendi no Project Euler é que eu sei nada sobre matemática. Para mim, isso é um estímulo para melhorar a mim mesmo. Espero assim que minhas soluções até então possam ajudar outras pessoas.
+Minhas soluções para o Project Euler. Eu tenho duas contas no project Euler como listado abaixo. Atualmente, tenho 100 problemas resolvidos na minha conta pessoal e estou sempre tentando melhorar e aprender com os problemas. Para mim, isso é um estímulo para melhorar a mim mesmo. Espero assim que minhas soluções até então possam ajudar outras pessoas.
 
 1. coding_guy (minha conta para submeter vídeos para este repositório) 1255105_lfupxCIaK0fHNk7xSgvWNpxVf7JtSX7a
 
